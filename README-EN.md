@@ -1,34 +1,35 @@
 [中文](./README.md)  |   English
 
+来个人翻译下然后提交
 
-<h1 align="center"> 🚀ctguqmx-git-study </h1>
-<h4 align="center"><a href="https://#" target="_blank">Basic GitHub Learning + Practice</a></h4>
+<h1 align="center"> 🚀启明星Git学习 </h1>
+<h4 align="center"><a href="https://#" target="_blank">基础github学习学习+实践</a></h4>
 
 
-|Introduction and specification | submission and testing | cooperative testing | code review | conflict resolution | participation in open source|
+|入门及规范|提交测试|合作测试|Code Review| 冲突解决 |参与开源 |
 | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------:  |
-| [☁️](./Lv1Introduction to Little White) | [💻](./Lv2Submit test) | [💾](./Lv3Introduction to Little White) | [🎨](./Lv4Introduction to Little White) | [🔧](./Lv5Introduction to Little White) | [🐍](./Lv6Introduction to Little White) | 
+| [☁️](./Lv1小白入门) | [💻](./Lv2提交测试) | [💾](./Lv3小白入门) | [🎨](./Lv4小白入门) | [🔧](./Lv5小白入门) | [🐍](./Lv6小白入门) | 
 
 ---
-<h1 align="center"> ☁️ Warehouse Usage Guide</h1>
-## Development specification
-**1.Common submission reference * *: the following example must be referred to for the comment information of commit
+<h1 align="center"> ☁️ 仓库食用手册</h1>
+## 开发规范
+**1. 常用提交参考**：commit备注信息必须参考下面示例
 
 ```
-feat：New XXX features
+feat：新增xxx新功能
 
-fix：Repair XXX function. If it is a repair issue, remember to note the issue number
+fix：修复xxx功能，如果是修复issue记得备注issue号
 
-docs：Modify document；
+docs：修改文档；
 
-refactor：Code refactoring without adding any functions and fixing any bugs；
+refactor：代码重构，未新增任何功能和修复任何bug；
 
-test：Modification of test cases；
+test：测试用例的修改；
 ```
 
-**2. [Based on plug-in specification submission](https://blog.csdn.net/qq_39996837/article/details/91345528)**
+**2. [基于插件规范提交](https://blog.csdn.net/qq_39996837/article/details/91345528)**
 
-- Global installation[commitizen](https://github.com/commitizen/cz-cli) (frame): `npm install commitizen -g` 
-- Use the plug-in in the project directory `commitizen init cz-conventional-changelog --save --save-exact
+- 全局性安装[commitizen](https://github.com/commitizen/cz-cli) (框架): `npm install commitizen -g` 
+- 项目目录内使用该插件 `commitizen init cz-conventional-changelog --save --save-exact
 ` 
-- Use `git cz` Replace previous `git commit`At this time, the plug-in will ask you to submit according to the specification  
+- 使用`git cz` 替代之前的 `git commit`这时候插件会要求你按照规范提交  
