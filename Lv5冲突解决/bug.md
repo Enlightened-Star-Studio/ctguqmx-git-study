@@ -10,6 +10,8 @@ yxr修改`bug4`并且关闭`issue31`
 
 # 我是bug5
 
+wqf修改`bug5`并且关闭`issue34`
+
 # 我是bug6
 
 # 我是bug7
