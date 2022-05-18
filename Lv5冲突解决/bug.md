@@ -17,7 +17,7 @@ wqf修改`bug5`并且关闭`issue34`
 zsh修改`bug6`并且关闭`issue36`
 
 # 我是bug7
-
+zwb修改`bug5`并且关闭`issue38`
 # 我是bug8
 
 # 我是bug9
