@@ -3,7 +3,7 @@ llz修复`bug1`并且关闭`issue2`
 # 我是bug2
 zk修复`bug2`并且关闭`issue28`
 # 我是bug3
-
+WTY修复`bug3`并且关闭`issue30`
 # 我是bug4
 
 yxr修改`bug4`并且关闭`issue31`
