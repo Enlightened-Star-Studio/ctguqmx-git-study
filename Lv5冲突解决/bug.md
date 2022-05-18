@@ -1,7 +1,7 @@
 # 我是bug1
 llz修复`bug1`并且关闭`issue2`
 # 我是bug2
-
+zk修复`bug2`并且关闭`issue3`
 # 我是bug3
 
 # 我是bug4
