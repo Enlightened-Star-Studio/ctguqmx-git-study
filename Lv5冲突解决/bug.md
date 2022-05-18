@@ -6,6 +6,8 @@ zk修复`bug2`并且关闭`issue28`
 
 # 我是bug4
 
+yxr修改`bug4`并且关闭`issue31`
+
 # 我是bug5
 
 # 我是bug6
