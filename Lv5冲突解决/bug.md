@@ -33,6 +33,7 @@ wxw 修改`bug6`并且关闭`issue43`
 # 我是 bug9
 
 # 我是 bug10
+hzm 修改`bug10`并且关闭`issue50`
 
 # 我是 bug11
 
