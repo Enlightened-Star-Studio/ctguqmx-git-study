@@ -14,6 +14,8 @@
 ---
 <h1 align="center"> ☁️ 仓库食用手册</h1>
 
+
+
 ## 如何使用
 - 对于**每个同学**，都可以按照顺序依次去板块内完成对应的任务，如何进入下一个板块，每个板块不仅仅是学习基础知识还需要进行实战。
 - 对于**高年级**的同学建议是都参与进来，尽量多贡献代码，给低年级同学提供规范，锻炼自己
@@ -52,3 +54,8 @@ node_modules //git提交规范插件依赖
 package.json 
 package-lock.json
 ```
+
+## 贡献者
+<a href="https://github.com/Enlightened-Star-Studio/ctguqmx-git-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Enlightened-Star-Studio/ctguqmx-git-study" />
+</a>
