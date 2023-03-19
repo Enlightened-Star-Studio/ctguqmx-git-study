@@ -56,6 +56,6 @@ package-lock.json
 ```
 
 ## 贡献者
-<a href="https://github.com/Enlightened-Star-Studio/ctguqmx-git-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Enlightened-Star-Studio/ctguqmx-git-study" />
-</a>
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
