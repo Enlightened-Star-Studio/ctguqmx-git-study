@@ -56,6 +56,7 @@ package-lock.json
 ```
 
 ## 贡献者
+> 只要你协作更新了仓库，你就会出现在这里，原理来自[github action](https://github.com/akhilmhdh/contributors-readme-action)
 
 <!-- readme: collaborators,contributors -start -->
 <table>
